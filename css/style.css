@@ -1,0 +1,63 @@
+.box{
+    min-height: 30px;
+    background-color: red;
+    color: white;
+}
+.bt{
+    padding: 5px 30px;
+}
+.c_prev {
+    left: 85% !important;
+    bottom: 2% !important;
+}
+.c_next {
+    right: 5% !important;
+    bottom: 2% !important;
+}
+.c_prev, .c_next {
+    top: 80% !important;
+    width: 5% !important;
+}
+.c-ind {
+    right: 80%;
+    bottom: 70%;
+    left: auto;
+    display: block;
+}
+.c-ind [data-bs-target] {
+    width: 13px;
+    height: 12px;
+    border-radius: 50%;
+}
+.banner{
+    background-image: url(../images/ad.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.slider{
+    background-color: rgba(1, 1, 1, .7);
+    color: white;
+    padding: 70px;
+    text-align: center;
+    margin: 30px 0;
+}
+.slider h1{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.slider p{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.slider button{
+    margin-bottom: 80px;
+}
+.c3-ind {
+    bottom: 40px;
+}
+.c3-ind [data-bs-target] {
+    width: 13px;
+    height: 12px;
+    border-radius: 50%;
+}
